@@ -1,0 +1,9 @@
+{
+    "Parameters": {
+        "CicdAccount": "01234567890",
+        "DevAccount": "1234567890",
+        "ProdAccount": "234567890",
+        "SourceCodeCommitRepoName": "",
+        "AllEnvironmentsCreated": "True"
+    }
+}
